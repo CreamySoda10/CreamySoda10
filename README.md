@@ -17,3 +17,4 @@
  
 ![image_URL](b5d8b48059c8328f2d13df6809ec2c03.jpg)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kmwih2cf2aisnmich355wrkifq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ffd9d9&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31kmwih2cf2aisnmich355wrkifq&redirect=true)
