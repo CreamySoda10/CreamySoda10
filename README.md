@@ -8,9 +8,10 @@
    
   <p align="center">$\color{#69d1ec}{\text{Hi..Im Diz Nice to meet you.-`}}$</p>
 
-![image_URL](5d3a3e896991c9c9730b88e1867d1c45.jpg)
+![image_URL]<img width="735" height="798" alt="image" src="https://github.com/user-attachments/assets/fcb4725f-23bb-4a2a-b6eb-350047ed2384" />
+)
 
-![image_URL](83a882069e024d888aed1480d8eeefa0.jpg)
+
 
 <p align="middle">$\color{#ccffff}{\text{First milk cookie is my wife!!}}$ 
  
