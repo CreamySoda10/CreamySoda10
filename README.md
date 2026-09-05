@@ -1,3 +1,2 @@
-<p align="center">
-<img src="./welcome.svg" width="900">
-</p>
+
+![image_URL](754fd106b51df6fbe71208ef76147dc8.jpg)
