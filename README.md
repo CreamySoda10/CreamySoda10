@@ -17,9 +17,9 @@
    
   <p align="center">$\color{#000033}{\text{Hi..Im Diz Nice to meet you.-`}}$</p>
 
-<p align="middle">![image_URL](18a17c24e3c4b6e54b505f8653fab629.jpg)
+![image_URL](18a17c24e3c4b6e54b505f8653fab629.jpg)
 
-<p align="middle">![image_URL](736ebddcd5fe1a50a6c48e994052c1d3.jpg)
+![image_URL](736ebddcd5fe1a50a6c48e994052c1d3.jpg)
 
 <p align="middle">$\color{#000033}{\text{Im Freely c+h and my fav duo : TaxDuo.}}$ 
 <p align="middle">$\color{#000033}{\text{MulitiFandom :D You can see me in Safe Vietnamese.}}$ 
