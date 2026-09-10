@@ -1,14 +1,15 @@
 <table>
  <tr></tr>
 
-![image_URL](e43097d1-4dbb-46e6-ac67-26a13d56904c.jpg)
- <img src="https://camo.githubusercontent.com/e34e64bd477605db73c878ece430baefba4549ba6b92068671ab99771fd8f8ed/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f64656565366134393565343337373037656539376663656531633230373565652f366561626538636435336133653230622d30362f733132383078313932302f393262393336663731306635363536326464383338653439363963316131393534333165313165302e67696676" width="70%">
+![image_URL](18a17c24e3c4b6e54b505f8653fab629)
+
+ 
  
  </p>
  
   
    
-  <p align="center">$\color{#69d1ec}{\text{Hi..Im Diz Nice to meet you.-`}}$</p>
+  <p align="center">$\color{#000033}{\text{Hi..Im Diz Nice to meet you.-`}}$</p>
 
 ![image_URL]<img width="735" height="798" alt="image" src="https://github.com/user-attachments/assets/fcb4725f-23bb-4a2a-b6eb-350047ed2384" />
 )
