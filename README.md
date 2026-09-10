@@ -1,7 +1,7 @@
 <table>
  <tr></tr>
 
-![image_URL](18a17c24e3c4b6e54b505f8653fab629)
+![image_URL](18a17c24e3c4b6e54b505f8653fab629.jpg)
 
  
  
