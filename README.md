@@ -1,7 +1,8 @@
 <table>
  <tr></tr>
 
-![image_URL](18a17c24e3c4b6e54b505f8653fab629.jpg)
+![image_URL](cdad263f6af4f084e35f40122397c1f9.jpg
+)
 
  
  
@@ -11,12 +12,10 @@
    
   <p align="center">$\color{#000033}{\text{Hi..Im Diz Nice to meet you.-`}}$</p>
 
-![image_URL]<img width="735" height="798" alt="image" src="https://github.com/user-attachments/assets/fcb4725f-23bb-4a2a-b6eb-350047ed2384" />
-)
+![image_URL](18a17c24e3c4b6e54b505f8653fab629.jpg)
 
 
-
-<p align="middle">$\color{#ccffff}{\text{First milk cookie is my wife!!}}$ 
+<p align="middle">$\color{#000033}{\text{Im Freely c+h and my fav duo : TaxDuo.}}$ 
  
 ![image_URL](9da019fe0e4e88dbc41aaac06014164b.jpg)
 
