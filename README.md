@@ -1,9 +1,9 @@
 <table>
  <tr></tr>
 
-(<img width="734" height="434" alt="878b5bb772a43f79774a3f85394ca49c" src="https://github.com/user-attachments/assets/6891b8ad-22a3-49a6-a562-f03e8776a20f" />
+<p align>="middle"><img width="734" height="434" alt="878b5bb772a43f79774a3f85394ca49c" src="https://github.com/user-attachments/assets/6891b8ad-22a3-49a6-a562-f03e8776a20f" />
 
-)
+
 <p align="middle">$\color{#000033}{\text{ Eng/Viet }}$ 
  /<p>
   
