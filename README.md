@@ -30,9 +30,9 @@
   <p align="middle">$\color{#000033}{\text{Pls don't do smth weird . It's make me uncomfortable..}}$ 
 
 
-   ![image_URL](<img width="735" height="437" alt="50f325479bcfe1579b1ea1275e182c3d" src="https://github.com/user-attachments/assets/2d4696fe-c26c-40c4-932c-f58a8827c513" />
+   <img width="735" height="437" alt="50f325479bcfe1579b1ea1275e182c3d" src="https://github.com/user-attachments/assets/2d4696fe-c26c-40c4-932c-f58a8827c513" />
 
-)
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kmwih2cf2aisnmich355wrkifq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ffd9d9&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31kmwih2cf2aisnmich355wrkifq&redirect=true)
 
