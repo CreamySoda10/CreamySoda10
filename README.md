@@ -18,11 +18,11 @@
    
   <p align="center">$\color{#000033}{\text{Hi..Im Diz Nice to meet you.-`}}$</p>
 
-![image_URL](<img width="736" height="736" alt="3e1dc7afb3bad0e796dba4f188f1f4a0" src="https://github.com/user-attachments/assets/6a38d2ca-e94a-423a-88d2-92452a49fc63" />
-)
+![image_URL](<img width="736" height="736" alt="3e1dc7afb3bad0e796dba4f188f1f4a0" src="https://github.com/user-attachments/assets/6a38d2ca-e94a-423a-88d2-92452a49fc63" />)
 
-![image_URL](<img width="736" height="736" alt="b244332efcd70ded7d8f079069fb428d" src="https://github.com/user-attachments/assets/3fe6c1e9-8c0e-488c-81d9-b333f522aa11" />
-)
+
+![image_URL](<img width="736" height="736" alt="b244332efcd70ded7d8f079069fb428d" src="https://github.com/user-attachments/assets/3fe6c1e9-8c0e-488c-81d9-b333f522aa11" />)
+
 
 <p align="middle">$\color{#000033}{\text{Im Freely c+h and my fav duo : TaxDuo, Lemonade Duo}}$ 
 <p align="middle">$\color{#000033}{\text{MulitiFandom :D You can see me in Safe Vietnamese.}}$ 
