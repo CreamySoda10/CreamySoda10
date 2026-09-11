@@ -22,10 +22,12 @@
    
   <p align="center">$\color{#aee1dd}{\text{Hi..Im Diz Nice to meet you.-`}}$</p>
 
-![image_URL](3e1dc7afb3bad0e796dba4f188f1f4a0.jpg)
+<img width="736" height="736" alt="3e1dc7afb3bad0e796dba4f188f1f4a0" src="https://github.com/user-attachments/assets/b9efdb6a-99eb-4b4d-9acf-1a95a298db6a" />
 
 
-![image_URL](b244332efcd70ded7d8f079069fb428d.jpg)
+
+<img width="736" height="736" alt="b244332efcd70ded7d8f079069fb428d" src="https://github.com/user-attachments/assets/400720cd-fb38-4433-b3f7-6b7c969ae3e5" />
+
 
 
 <p align="middle">$\color{#fcb3b7}{\text{Im Freely c+h and my fav duo : TaxDuo, Lemonade Duo}}$ 
