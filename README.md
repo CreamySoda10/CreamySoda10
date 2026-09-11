@@ -20,13 +20,15 @@
  
   
    
-  <p align="center">$\color{#aee1dd}{\text{Hi..Im Diz Nice to meet you.-`}}$</p>
+  <p align="center">$\color{#aee1dd}{\text{Hi!!Call me Dizo or Rein if you want! or Diz for short}}$</p>
 
-<img width="736" height="736" alt="3e1dc7afb3bad0e796dba4f188f1f4a0" src="https://github.com/user-attachments/assets/b9efdb6a-99eb-4b4d-9acf-1a95a298db6a" />
+<p align="middle"><img width="736" height="736" alt="3e1dc7afb3bad0e796dba4f188f1f4a0" src="https://github.com/user-attachments/assets/b9efdb6a-99eb-4b4d-9acf-1a95a298db6a" />
 
-
-
-<img width="736" height="736" alt="b244332efcd70ded7d8f079069fb428d" src="https://github.com/user-attachments/assets/400720cd-fb38-4433-b3f7-6b7c969ae3e5" />
+<p align="middle">$\color{#fcb3b7}{\text{If you see me , im friendly and don't bite sooo you can sit next to me..}}$ 
+ 
+<p align="middle">$\color{#fad5cd}{\text{My love Cat.}}$ 
+ 
+<p align="middle"><img width="736" height="736" alt="b244332efcd70ded7d8f079069fb428d" src="https://github.com/user-attachments/assets/400720cd-fb38-4433-b3f7-6b7c969ae3e5" />
 
 
 
