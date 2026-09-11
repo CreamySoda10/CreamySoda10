@@ -16,7 +16,7 @@
  
   
    
-  <p align="center">$\color{#000033}{\text{Hi..Im Diz Nice to meet you.-`}}$</p>
+  <p align="center">$\color{#aee1dd}{\text{Hi..Im Diz Nice to meet you.-`}}$</p>
 
 ![image_URL](3e1dc7afb3bad0e796dba4f188f1f4a0.jpg)
 
@@ -24,10 +24,10 @@
 ![image_URL](b244332efcd70ded7d8f079069fb428d.jpg)
 
 
-<p align="middle">$\color{#000033}{\text{Im Freely c+h and my fav duo : TaxDuo, Lemonade Duo}}$ 
-<p align="middle">$\color{#000033}{\text{MulitiFandom :D You can see me in Safe Vietnamese.}}$ 
- <p align="middle">$\color{#000033}{\text{Fav char : Wemmbu, Eggchan,dol9hin}}$ 
-  <p align="middle">$\color{#000033}{\text{Pls don't do smth weird . It's make me uncomfortable..}}$ 
+<p align="middle">$\color{#fcb3b7}{\text{Im Freely c+h and my fav duo : TaxDuo, Lemonade Duo}}$ 
+<p align="middle">$\color{#fad5cd}{\text{MulitiFandom :D You can see me in Safe Vietnamese.}}$ 
+ <p align="middle">$\color{#d6e5dc}{\text{Fav char : Wemmbu, Eggchan,dol9hin}}$ 
+  <p align="middle">$\color{#aee1dd}{\text{Pls don't do smth weird . It's make me uncomfortable..}}$ 
 
 
    <img width="735" height="437" alt="50f325479bcfe1579b1ea1275e182c3d" src="https://github.com/user-attachments/assets/2d4696fe-c26c-40c4-932c-f58a8827c513" />
