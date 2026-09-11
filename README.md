@@ -21,7 +21,7 @@
 ![image_URL](3e1dc7afb3bad0e796dba4f188f1f4a0.jpg)
 
 
-![image_URL](b244332efcd70ded7d8f079069fb428d)
+![image_URL](b244332efcd70ded7d8f079069fb428d.jpg)
 
 
 <p align="middle">$\color{#000033}{\text{Im Freely c+h and my fav duo : TaxDuo, Lemonade Duo}}$ 
