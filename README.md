@@ -1,4 +1,5 @@
-<table>
+<img src="https://komarev.com/ghpvc/?username=CreamySoda10&label=（＞人＜；）　&color=aee1dd" alt="visitor counter">
+ <table>
  <tr></tr>
 <p align="middle"> <img width="734" height="289" alt="228be735625db2fabe4fb67f8a848e74" src="https://github.com/user-attachments/assets/c5da0a8a-a4ea-4ad4-b1e6-9b609b62d962" />
 
