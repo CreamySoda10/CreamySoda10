@@ -17,6 +17,7 @@
  </p>
 
  
+<p align="middle"><img width="467" height="336" alt="bba95dcd2a79d61311e29ec0615bfbcb" src="https://github.com/user-attachments/assets/c4820bdb-df17-4e31-8faa-c909d4012ae0" />
 
  
  </p>
@@ -25,7 +26,7 @@
    
   <p align="center">$\color{#b5838d}{\text{Hi!!Call me Dizo or Rein if you want! or Diz for short}}$</p>
 
-<p align="middle"><img width="735" height="529" alt="76e48ce6de42adb6f623b786bb9abbdc" src="https://github.com/user-attachments/assets/2164b3a7-475f-4b79-af0e-39e9f000f8d0" />
+<p align="middle"><img width="735" height="588" alt="bba95dcd2a79d61311e29ec0615bfbcb" src="https://github.com/user-attachments/assets/8858437d-6ad9-4259-88f3-1dbb8302258e" />
 
 
 <p align="middle">$\color{#b5838d}{\text{If you see me , im friendly and don't bite sooo you can sit next to me..}}$ 
