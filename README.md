@@ -27,7 +27,8 @@
    
   <p align="center">$\color{#b5838d}{\text{Hi!!Call me Dizo or Rein if you want! or Diz for short}}$</p>
 
-<p align="middle"><img width="735" height="588" alt="bba95dcd2a79d61311e29ec0615bfbcb" src="https://github.com/user-attachments/assets/8858437d-6ad9-4259-88f3-1dbb8302258e" />
+<p align="middle"><img width="735" height="955" alt="72a11794548bf4ba38f562fab6ecdb97" src="https://github.com/user-attachments/assets/9acdc06d-9b1e-4c5a-a23c-7d0d08e6a9e1" />
+
 
 
 <p align="middle">$\color{#b5838d}{\text{If you see me , im friendly and don't bite sooo you can sit next to me..}}$ 
