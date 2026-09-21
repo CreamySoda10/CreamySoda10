@@ -1,12 +1,14 @@
 <p align="middle"><img src="https://komarev.com/ghpvc/?username=CreamySoda10&label=🌈　&colorb5838d**" alt="visitor counter">
  <table>
  <tr></tr>
-<p align="middle"> <img width="734" height="289" alt="228be735625db2fabe4fb67f8a848e74" src="https://github.com/user-attachments/assets/c5da0a8a-a4ea-4ad4-b1e6-9b609b62d962" />
+<p align="middle"> <img width="736" height="414" alt="777b71e167835fe427d2d30b59f9d887" src="https://github.com/user-attachments/assets/f60f342f-bbac-4f0b-9959-9522c18f3523" />
 
 
 
 
-<p align="middle"><img width="734" height="434" alt="878b5bb772a43f79774a3f85394ca49c" src="https://github.com/user-attachments/assets/6891b8ad-22a3-49a6-a562-f03e8776a20f" />
+
+<p align="middle"><img width="736" height="414" alt="55c821460b0300688d8705ca2703e70a" src="https://github.com/user-attachments/assets/234e47ca-cfdc-43d9-9ee7-c3436ecda891" />
+
 
 
 <p align="middle">$\color{#cbe0eb}{\text{ Eng/Viet }}$ 
