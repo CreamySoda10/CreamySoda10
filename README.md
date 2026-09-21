@@ -25,23 +25,24 @@
    
   <p align="center">$\color{#b5838d}{\text{Hi!!Call me Dizo or Rein if you want! or Diz for short}}$</p>
 
-<p align="middle"><img width="736" height="736" alt="3e1dc7afb3bad0e796dba4f188f1f4a0" src="https://github.com/user-attachments/assets/b9efdb6a-99eb-4b4d-9acf-1a95a298db6a" />
+<p align="middle"><img width="735" height="529" alt="76e48ce6de42adb6f623b786bb9abbdc" src="https://github.com/user-attachments/assets/2164b3a7-475f-4b79-af0e-39e9f000f8d0" />
 
-<p align="middle">$\color{#fcb3b7}{\text{If you see me , im friendly and don't bite sooo you can sit next to me..}}$ 
+
+<p align="middle">$\color{#b5838d}{\text{If you see me , im friendly and don't bite sooo you can sit next to me..}}$ 
  
-<p align="middle">$\color{#fad5cd}{\text{My love Cat.}}$ 
+<p align="middle">$\color{#6d6875}{\text{My love Cat.}}$ 
  
 <p align="middle"><img width="736" height="736" alt="b244332efcd70ded7d8f079069fb428d" src="https://github.com/user-attachments/assets/400720cd-fb38-4433-b3f7-6b7c969ae3e5" />
 
 
 
-<p align="middle">$\color{#fcb3b7}{\text{Im Freely c+h and my fav duo : TaxDuo, Lemonade Duo}}$ 
-<p align="middle">$\color{#fad5cd}{\text{MulitiFandom :D You can see me in Safe Vietnamese.}}$ 
- <p align="middle">$\color{#d6e5dc}{\text{Fav char : Wemmbu, Eggchan,dol9hin}}$ 
-  <p align="middle">$\color{#aee1dd}{\text{Pls don't do smth weird . It's make me uncomfortable..}}$ 
+<p align="middle">$\color{#ffb4a2}{\text{Im Freely c+h and my fav duo : TaxDuo, Lemonade Duo, Devious duo}}$ 
+<p align="middle">$\color{#e5989b}{\text{MulitiFandom :D You can see me in Safe Vietnamese.}}$ 
+ <p align="middle">$\color{#b5838d}{\text{Fav char : Wemmbu, Eggchan,dol9hin,spoke,spoke}}$ 
+  <p align="middle">$\color{#6d6875}{\text{Pls don't do smth weird . It's make me uncomfortable..}}$ 
 
 
-   <img width="735" height="437" alt="50f325479bcfe1579b1ea1275e182c3d" src="https://github.com/user-attachments/assets/2d4696fe-c26c-40c4-932c-f58a8827c513" />
+   <p align="middle"><img width="495" height="230" alt="221da28e8d1d5aa31cd8db5c5601b9e5" src="https://github.com/user-attachments/assets/80633cf0-fb7e-4258-98b7-5272e6cd06f6" />
 
 
 
