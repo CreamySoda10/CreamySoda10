@@ -11,19 +11,19 @@
 
 
 
-<p align="middle">$\color{#cbe0eb}{\text{ Eng/Viet }}$ 
+<p align="middle">$\color{#e5989b}{\text{ Eng/Viet }}$ 
  <p>
   
  </p>
 
- <p align="middle"><img width="236" height="95" alt="d9ae4b4820e7497ac44dfb8782899aaf" src="https://github.com/user-attachments/assets/3a6c18ba-5fb9-4d12-abca-06555826bf1f" />
+ 
 
  
  </p>
  
   
    
-  <p align="center">$\color{#aee1dd}{\text{Hi!!Call me Dizo or Rein if you want! or Diz for short}}$</p>
+  <p align="center">$\color{#b5838d}{\text{Hi!!Call me Dizo or Rein if you want! or Diz for short}}$</p>
 
 <p align="middle"><img width="736" height="736" alt="3e1dc7afb3bad0e796dba4f188f1f4a0" src="https://github.com/user-attachments/assets/b9efdb6a-99eb-4b4d-9acf-1a95a298db6a" />
 
