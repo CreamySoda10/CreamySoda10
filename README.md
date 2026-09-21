@@ -34,7 +34,8 @@
  
 <p align="middle">$\color{#6d6875}{\text{My love Cat.}}$ 
  
-<p align="middle"><img width="736" height="736" alt="b244332efcd70ded7d8f079069fb428d" src="https://github.com/user-attachments/assets/400720cd-fb38-4433-b3f7-6b7c969ae3e5" />
+<p align="middle"><img width="335" height="455" alt="72a11794548bf4ba38f562fab6ecdb97" src="https://github.com/user-attachments/assets/67f268eb-9903-47cc-b890-af2b58aca7e5" />
+
 
 
 
