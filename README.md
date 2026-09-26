@@ -1,3 +1,5 @@
+<p align="middle"><Screenshot 2026-09-26 125125.png>
+
 <p align="middle"><img src="https://komarev.com/ghpvc/?username=CreamySoda10&label=🌈　&colorb5838d**" alt="visitor counter">
  <table>
  <tr></tr>
